@@ -1,0 +1,44 @@
+{
+	"groups":[
+	{
+		"keys":"bg_jpg,egret_icon_png,description_json,sign,scall,font,msk",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"bg_jpg",
+		"type":"image",
+		"url":"assets/bg.jpg"
+	},
+	{
+		"name":"egret_icon_png",
+		"type":"image",
+		"url":"assets/egret_icon.png"
+	},
+	{
+		"name":"description_json",
+		"type":"json",
+		"url":"config/description.json"
+	},
+	{
+		"name":"sign",
+		"type":"image",
+		"url":"assets/index/sign.png"
+	},
+	{
+		"name":"scall",
+		"type":"image",
+		"url":"assets/index/scall.png"
+	},
+	{
+		"name":"font",
+		"type":"image",
+		"url":"assets/index/font.png"
+	},
+	{
+		"name":"msk",
+		"type":"image",
+		"url":"assets/index/msk.png"
+	}
+]
+}
